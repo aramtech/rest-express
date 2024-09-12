@@ -1,0 +1,17 @@
+{
+    "name": "rest-express",
+    "deps": {
+        "rest-common": {
+            "owner": "aramtech",
+            "repo": "rest-common",
+            "update_policy": "major",
+            "version": "0.3.2"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech",
+    "hash": "0EEWDb0MRj2cUHPs8UYBHbmX323Ajfc5L4x9UUMQGfs",
+    "version": "0.2.2",
+    "description": ""
+}
